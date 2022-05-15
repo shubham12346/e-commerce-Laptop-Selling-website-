@@ -1,0 +1,16 @@
+
+@media (min-width:992px) {
+
+    #navbarSearch{
+    width: 555px !important ;
+    margin-left: 20% ;
+        
+        }
+}
+.dropdown-menu[data-bs-popper] {
+    top: 100%;
+    left: -146px;
+    right: 13px;
+    margin-top: 1.125rem;
+    width: 266px;
+}
